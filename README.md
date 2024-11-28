@@ -1,6 +1,6 @@
 # Juan Luis Torres GitHub
 
-Este es mi perfil de Github. Soy un estudiante de Ingeniería informatica interesado en la seguridad y proteccion de sistemas informaticos, además de estructuras de datos y algoritmos. En este github tengo guardado algunos projectos que he ido haciendo en mi estancia tanto en la Universidad de Granada y en la Universidad Cote d'Azur. 
+Este es mi perfil de Github. Soy un estudiante de Ingeniería informatica interesado en la seguridad y protección de sistemas, así como por el desarrollo y optimización de estructuras de datos y algoritmos. En este github tengo guardado algunos projectos que he ido haciendo en mi estancia tanto en la Universidad de Granada y en la Universidad Cote d'Azur. 
 
 - Trabajando en *Publicacion en DEV sobre machine learning ,otra sobre Servidores, otra sobre Seed Labs y trabajando en TFG sobre HPC y SRE*
 
