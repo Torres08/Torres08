@@ -2,8 +2,7 @@
 
 Este es mi perfil de Github. Soy un estudiante de Ingenieria informatica Interesado en la seguridad y proteccion de sistemas informaticos, además de estructuras de datos y algoritmos. En este github tengo guardado algunos projectos que he ido haciendo en mi estancia tanto en la Universidad de Granada y en la Universidad Cote d'Azur. 
 
-- Trabajando en *Publicacion en DEV sobre machine learning y otra sobre Servidores*
-Publicacion ML: https://medium.com/@juanlutr2002/comprehensive-study-guide-for-machine-learning-course-notes-and-practical-exercises-69a82d4990c4
+- Trabajando en *Publicacion en DEV sobre machine learning ,otra sobre Servidores, otra sobre Seed Labs y trabajando en TFG sobre HPC y SRE*
 
 ## Tech Stack
 
@@ -22,18 +21,17 @@ Publicacion ML: https://medium.com/@juanlutr2002/comprehensive-study-guide-for-m
 - [Correo Gmail](mailto:juanlutr2002@gmail.com)
 - [Medium](https://medium.com/@juanlutr2002)
 
+## Publicaciones
+
+Publicacion ML: https://medium.com/@juanlutr2002/comprehensive-study-guide-for-machine-learning-course-notes-and-practical-exercises-69a82d4990c4
+
+## Estadísticas de GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Torres08&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torres08&show_icons=true&theme=radical) 
+
 ## LeetCode
 Trabajando en ello ...
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/Torres314?theme=light&font=source_code_pro&ext=heatmap)-->  <!-- Reemplaza "Torres314" con tu nombre de usuario en LeetCode -->
-
-
-## Estadísticas de GitHub
-Trabajando en ello ...
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Torres08&show_icons=true&theme=radical)--> <!-- Reemplaza "yourusername" con tu nombre de usuario en GitHub -->
-
-## Publicaciones
-
-Trabajando ...
 
 ---
 
